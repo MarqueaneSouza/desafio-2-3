@@ -1,0 +1,40 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  color: #293651;
+  padding-left: 60px;
+ 
+}
+
+h2 {
+  font-size: 20px;
+  color: #149184;
+  font-weight: normal;
+  
+}
+
+h3 {
+  font-size: 20px;
+  color: #293651;
+  font-weight: normal;
+  
+}
+
+button {
+margin-bottom: 20px;
+background-color: #149184 ;
+border: 0;
+padding: 10px 25px;
+color:aliceblue;
+font-family: "Montserrat", sans-serif;
+}
+
+img {
+  width: 340px;
+  display: block;
+  margin: 0px auto;
+  
+}
+
+
+
+
